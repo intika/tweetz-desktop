@@ -10,3 +10,9 @@ I compiled different versions with different transparency percentage...
 i don't really have the time to add it as feature for the moment 
 The _xx correspond to the transparency value example tweetz_45.exe have 45% transparency
 
+To build your version 
+
+Just add   "WindowStyle="None" AllowsTransparency="True" Opacity="0.40">"
+in MainWindow.xaml at line 21
+
+;)
